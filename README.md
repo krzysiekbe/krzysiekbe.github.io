@@ -10,30 +10,30 @@ Over the years, I have gained insights from substantial volumes of data, spannin
 * LinkedIn: <https://www.linkedin.com/in/krzysztofbielas/>
 * GitHub: <https://github.com/krzysiekbe>
 
-## Professional experience
+## Experience
 
-* (Jan 2022 – present) Modelling specialist, ArcelorMittal Poland
+* (Jan 2022 – present) **Modelling specialist**, ArcelorMittal Poland
     * exploratory data analysis
     * regression models
     * developing&maintenance of steelplant optimization models
 
-* (Sep 2019 - Nov 2021) Data Scientist, GlucoTrend
+* (Sep 2019 - Nov 2021) **Data Scientist**, GlucoTrend
     * time series analysis
     * signal processing
     * glycaemic profile clustering
     * glucose regression
 
-* (Sep 2019 - Aug 2022) Research assistant, University of Information Technology and Management (Rzeszów)
+* (Sep 2019 - Aug 2022) **Research assistant**, University of Information Technology and Management (Rzeszów)
     * Research on randomness in quantum mechanics
     * Teaching assistant: Discrete Mathematics, Introduction to Business Analytics, Descriptive Statistics, Fundamentals of Mathematics
 
-* (Oct 2018 - Sep 2019) Data Analyst, APA Group
+* (Oct 2018 - Sep 2019) **Data Analyst**, APA Group
     * forecasting energy load
     * cyclic patterns detection
     * exploratory data analysis
     * load profile clustering
 
-* (Oct 2012 - Sep 2018) Research Assistant, University of Silesia
+* (Oct 2012 - Sep 2018) **Research Assistant**, University of Silesia
     * Research on perturbative quantum field theory and neutrino physics
         * developed a MATHEMATICA package solving the planarity of a given flow
         network (EU funding)
@@ -46,11 +46,11 @@ Over the years, I have gained insights from substantial volumes of data, spannin
 
 ## Education
 
-* 2012-2018: PhD at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
-    * title: *Applications of topos theory in quantum physics* (under revision, expected to graduate in 2024)
+* 2012-2018: **PhD** at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
+    * title: *Applications of topos theory in quantum physics* (**under revision**, expected to graduate in 2024)
     * supervisor: dr hab. Jerzy Król
     
-* 2007-2012: M.Sc. at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
+* 2007-2012: **MSc** at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
     * title: *Elements of model theory and category theory in quantum physics*
     * supervisor: dr hab. Jerzy Król
 
