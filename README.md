@@ -60,16 +60,16 @@ Over the years, I've employed a variety of methods and techniques to gain insigh
     * title: *Elements of model theory and category theory in quantum physics*
     * supervisor: dr hab. Jerzy Król
 
-* 2010: B.Sc. at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
+<!-- * 2010: B.Sc. at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
     * title: *Algebraic approach to quantum mechanics*
-    * supervisor: dr hab. Jerzy Król
+    * supervisor: dr hab. Jerzy Król -->
 
 ## Conferences & Workshops
 
 | Conference | Year | Place | Talk |
 |:---:|:---:|:---:|:---:|
-| [Novel Computational Paradigms, Methods and Approaches in Bioinformatics - Paradigms-Methods-Approaches 2021](http://ift.uni.wroc.pl/~nuwro2017/) | 11-13 February 2021 | remote | [Logical Duality in Reactions of Amoeba Proteus](https://www.insticc.org/node/TechnicalProgram/biostec/2021/presentationDetails/103861) |
-| [Category Theory in Physics, Mathematics and Philosophy](http://www.icfo.ans.pw.edu.pl/en/?page_id=1855) | 16-17 November 2017 | Warsaw  | [From quantum-mechanical lattice of projections to smooth structure of $\mathbb{R}^4$] |
+| [BIOSTEC2021 - Paradigms-Methods-Approaches 2021](https://biostec.scitevents.org/Paradigms-Methods-Approaches.aspx?y=2021) | 11-13 February 2021 | remote | [Logical Duality in Reactions of Amoeba Proteus](https://www.insticc.org/node/TechnicalProgram/biostec/2021/presentationDetails/103861) |
+| [Category Theory in Physics, Mathematics and Philosophy](http://www.icfo.ans.pw.edu.pl/en/?page_id=1855) | 16-17 November 2017 | Warsaw  | From quantum-mechanical lattice of projections to smooth structure of $\mathbb{R}^4$ |
 | [COSMO-15](https://cosmo15.ncbj.gov.pl/) | 7-11 September 2015 | Warsaw | [Aspects of topos theory in cosmology](https://indico.cern.ch/event/438475/contributions/1090930/attachments/1152673/1655388/bielas_plakat.pdf) |
 | [Matter To The Deepest 2015](https://indico.if.us.edu.pl/event/2/?ovw=True) | 13-18 August 2015 | Ustroń | [Building the cosmological models vs. different models of set theory](https://indico.if.us.edu.pl/event/2/contributions/99/attachments/168/199/ustron_2015.pdf) |
 | [Matter To The Deepest 2013](https://indico.if.us.edu.pl/event/0/) | 1-6 August 2013 | Ustroń | [Some remarks on non-planar Feynman diagrams](http://swider.us.edu.pl/wp-content/uploads/2013/02/bielas_Ustron_2013_corr.pdf) |
@@ -78,7 +78,7 @@ Over the years, I've employed a variety of methods and techniques to gain insigh
 
 ## Publications
 
-1. Król J., Bielas K., Asselmeyer-Maluga T., Random world and quantum mechanics. Found Sci (2022)  [https://link.springer.com/article/10.1007/s10699-022-09852-2](https://link.springer.com/article/10.1007/s10699-022-09852-2)
+1. Król J., Bielas K., Asselmeyer-Maluga T., [Random world and quantum mechanics. Found Sci (2022)](https://link.springer.com/article/10.1007/s10699-022-09852-2)
 
 1. Król J., Schumann A., Bielas K., Categorical approach to swarm computations, In: Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies, BIOSTEC 2021, Volume 3: BIOINFORMATICS, Online Streaming, February 11-13, 2021. SCITEPRESS 2021, ISBN 978-989-758-490-9  [https://www.scitepress.org/Link.aspx?doi=10.5220/0010389502180224](https://www.scitepress.org/Link.aspx?doi=10.5220/0010389502180224)
 
