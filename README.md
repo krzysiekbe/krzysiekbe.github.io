@@ -47,7 +47,7 @@ Over the years, I have gained insights from substantial volumes of data, spannin
 ## Education
 
 * 2012-2018: **PhD** at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
-    * title: *Applications of topos theory in quantum physics* (under revision, expected to graduate in 2024)
+    * title: *Applications of topos theory in quantum physics* (**under revision**, expected to graduate in 2024)
     * supervisor: dr hab. Jerzy Król
     
 * 2007-2012: **MSc** at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
