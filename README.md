@@ -1,8 +1,8 @@
 ##  About
 
-I'm a theoretical physicist with a keen interest and experience in machine learning, particularly in the realm of data science. 
+I'm a theoretical physicist with a keen interest and experience in data science, ranging from data analysis to machine learning methods.
 
-Over the years, I've employed a variety of methods and techniques to gain insights from substantial volumes of data, spanning from process and technological information to biomedical data.
+Over the years, I have gained insights from substantial volumes of data, spanning from process signals to biomedical data.
 
 ## Contact
 
@@ -10,18 +10,12 @@ Over the years, I've employed a variety of methods and techniques to gain insigh
 * LinkedIn: <https://www.linkedin.com/in/krzysztofbielas/>
 * GitHub: <https://github.com/krzysiekbe>
 
-## Interested in
-
-* machine learning, data science
-* theoretical physics
-
 ## Professional experience
 
 * (Jan 2022 – present) Modelling specialist, ArcelorMittal Poland
     * exploratory data analysis
-    * machine learning
-    * developing Python scripts
-    * maintenance of legacy steelplant optimization models
+    * regression models
+    * developing&maintenance of steelplant optimization models
 
 * (Sep 2019 - Nov 2021) Data Scientist, GlucoTrend
     * time series analysis
@@ -53,10 +47,10 @@ Over the years, I've employed a variety of methods and techniques to gain insigh
 ## Education
 
 * 2012-2018: PhD at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
-    * title: *Applications of topos theory in quantum physics* (under revision)
+    * title: *Applications of topos theory in quantum physics* (under revision, expected to graduate in 2024)
     * supervisor: dr hab. Jerzy Król
     
-* 2012: M.Sc. at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
+* 2007-2012: M.Sc. at [Institute of Physics](https://us.edu.pl/instytut/ifiz/)
     * title: *Elements of model theory and category theory in quantum physics*
     * supervisor: dr hab. Jerzy Król
 
@@ -78,28 +72,28 @@ Over the years, I've employed a variety of methods and techniques to gain insigh
 
 ## Publications
 
-1. Król J., Bielas K., Asselmeyer-Maluga T., [Random world and quantum mechanics. Found Sci (2022)](https://link.springer.com/article/10.1007/s10699-022-09852-2)
+1. Król J., Bielas K., Asselmeyer-Maluga T. [Random world and quantum mechanics. Found Sci (2022)](https://link.springer.com/article/10.1007/s10699-022-09852-2)
 
-1. Król J., Schumann A., Bielas K., Categorical approach to swarm computations, In: Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies, BIOSTEC 2021, Volume 3: BIOINFORMATICS, Online Streaming, February 11-13, 2021. SCITEPRESS 2021, ISBN 978-989-758-490-9  [https://www.scitepress.org/Link.aspx?doi=10.5220/0010389502180224](https://www.scitepress.org/Link.aspx?doi=10.5220/0010389502180224)
+1. Król J., Schumann A., Bielas K. [Categorical approach to swarm computations (2021)](https://www.scitepress.org/Link.aspx?doi=10.5220/0010389502180224)
 
-1. Schumann A., Bielas K., Król J. Logical Duality in Reactions of Amoeba Proteus, In: Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies, BIOSTEC 2021, Volume 3: BIOINFORMATICS, Online Streaming, February 11-13, 2021. SCITEPRESS 2021, ISBN 978-989-758-490-9  [https://www.scitepress.org/Link.aspx?doi=10.5220/0010386102130217](https://www.scitepress.org/Link.aspx?doi=10.5220/0010386102130217)
+1. Schumann A., Bielas K., Król J. [Logical Duality in Reactions of Amoeba Proteus (2021)](https://www.scitepress.org/Link.aspx?doi=10.5220/0010386102130217)
 
-1. Bielas K., Król J. (2019) From Quantum-Mechanical Lattice of Projections to Smooth Structure of R4. In: Kuś M., Skowron B. (eds) Category Theory in Physics, Mathematics, and Philosophy. CTPMP 2017. Springer Proceedings in Physics, vol 235. Springer, Cham [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.053001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.053001)
+1. Bielas K., Król J. [From Quantum-Mechanical Lattice of Projections to Smooth Structure of R4 (2019)](https://link.springer.com/chapter/10.1007/978-3-030-30896-4_7)
 
-1. Bielas, K., Flieger, W., Gluza, J., & Gluza, M. (2018). Neutrino mixing, interval matrices and singular values. Phys. Rev. D, 98, 053001. doi:10.1103/PhysRevD.98.053001 [arXiv:1908.10249 [hep-ex]](http://arxiv.org/abs/arXiv:1908.10249)
+1. Bielas, K., Flieger, W., Gluza, J., & Gluza, M. [Neutrino mixing, interval matrices and singular values (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.053001)
 
-1. Bielas, K., Klimasara, P., & Król, J. (2018). Boolean-valued models of ZFC and forcing in geometry and physics. In Bulletin of Symbolic Logic, Vol. 24, 2, p. 236. [https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/abs/2017-european-summer-meeting-of-the-association-for-symbolic-logic-logic-colloquium-17-stockholm-sweden-august-1420-2017/91C4802203098E60FD059FE964379611](https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/abs/2017-european-summer-meeting-of-the-association-for-symbolic-logic-logic-colloquium-17-stockholm-sweden-august-1420-2017/91C4802203098E60FD059FE964379611)
+1. Bielas, K., Klimasara, P., & Król, J. [Boolean-valued models of ZFC and forcing in geometry and physics (2018)](https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/abs/2017-european-summer-meeting-of-the-association-for-symbolic-logic-logic-colloquium-17-stockholm-sweden-august-1420-2017/91C4802203098E60FD059FE964379611)
 
-1. Bielas, K. & Flieger, W. (2017). Dilations and Light–Heavy Neutrino Mixings. Acta Phys.Polon. B48 (2017) 2213 [http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=48&page=2213](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=48&page=2213)
+1. Bielas, K. & Flieger, W. [Dilations and Light–Heavy Neutrino Mixings (2017)](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=48&page=2213)
 
-1. Król, J., Klimasara, P., Bielas, K., & Asselmeyer-Maluga, T. (2017). Dimension 4: Quantum Origins of Spacetime Smoothness. Acta Phys.Polon. B48 (2017) 2375. [https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=48&page=2375](https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=48&page=2375)
+1. Król, J., Klimasara, P., Bielas, K., & Asselmeyer-Maluga, T. [Dimension 4: Quantum Origins of Spacetime Smoothness (2017)](https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=48&page=2375)
 
-1. Król, J., Asselmeyer-Maluga, T., Bielas, K., & Klimasara, P. (2017). From Quantum to Cosmological Regime. The Role of Forcing and Exotic 4-Smoothness. Universe, 3(2), 31. [https://www.mdpi.com/2218-1997/3/2/31/htm](https://www.mdpi.com/2218-1997/3/2/31/htm)
+1. Król, J., Asselmeyer-Maluga, T., Bielas, K., & Klimasara, P. [From Quantum to Cosmological Regime. The Role of Forcing and Exotic 4-Smoothness (2017)](https://www.mdpi.com/2218-1997/3/2/31/htm)
 
-1. Klimasara, P., Bielas, K., Król, J., & Asselmeyer-Maluga, T. (2016). The Latent Meaning of Forcing in Quantum Mechanics. Acta Phys.Polon. B47 (2016) 1685. [https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=47&page=1685](https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=47&page=1685)
+1. Klimasara, P., Bielas, K., Król, J., & Asselmeyer-Maluga, T. [The Latent Meaning of Forcing in Quantum Mechanics (2016)](https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=47&page=1685)
 
-1. Bielas, K., Klimasara, P., & Król, J. (2015). The Structure of the Real Line in Quantum Mechanics and Cosmology. Acta Phys.Polon. B46 (2015) no.11, 2375. [http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=46&page=2375](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=46&page=2375)
+1. Bielas, K., Klimasara, P., & Król, J. [The Structure of the Real Line in Quantum Mechanics and Cosmology (2015)](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=46&page=2375)
 
-1. Bielas, K., Król, J., & Asselmeyer-Maluga, T. (2015). Building the Cosmological Models vs. Different Models of Set Theory. Acta Phys.Polon. B46 (2015) no.11, 2369 [https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=46&page=2369](https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=46&page=2369)
+1. Bielas, K., Król, J., & Asselmeyer-Maluga, T. [Building the Cosmological Models vs. Different Models of Set Theory (2015)](https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=46&page=2369)
 
-1. Bielas, K., Dubovyk, I., Gluza, J., & Riemann, T. (2013). Some Remarks on Non-planar Feynman Diagrams. Acta Phys.Polon. B44 (2013) no.11, 2249-2255 [http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=44&page=2249](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=44&page=2249)
+1. Bielas, K., Dubovyk, I., Gluza, J., & Riemann, T. [Some Remarks on Non-planar Feynman Diagrams (2013)](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=44&page=2249)
