@@ -5,7 +5,7 @@ I'm a theoretical physicist with a keen interest and experience in data science,
 Over the years, I have gained insights from substantial volumes of data, spanning from process signals to biomedical data.
 
 ## Contact
-
+{:toc}
 * email: <krzysiek.bielas@gmail.com>
 * LinkedIn: <https://www.linkedin.com/in/krzysztofbielas/>
 * GitHub: <https://github.com/krzysiekbe>
@@ -13,6 +13,7 @@ Over the years, I have gained insights from substantial volumes of data, spannin
 ## Experience
 
 * (Jan 2022 – present) **Modelling specialist**, ArcelorMittal Poland
+{:toc}
     * exploratory data analysis
     * regression models
     * developing&maintenance of steelplant optimization models
